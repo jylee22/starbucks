@@ -375,14 +375,6 @@
   right: 0;
 }
 
-/* bg */
-.bg{
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
-}
-
 /* pick-your-favorite */
 .pick-your-favorite{
   background-image: url(../images/favorite_bg.jpg);
